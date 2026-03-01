@@ -4,7 +4,7 @@ import BannerImg from '../../assets/pngkey.png';
 const Banner = () => {
   return (
     <div>
-        <div className='container py-14 md:ml-30'>
+        <div className='container py-14'>
             <div className='grid grid-cols-1 sm:grid-cols-2 gap-8'>
                 <div className='flex justify-center items-center'>
                     <img src={BannerImg} alt='' />

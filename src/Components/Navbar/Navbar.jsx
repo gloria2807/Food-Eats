@@ -4,7 +4,7 @@ import { IoIosArrowDown } from "react-icons/io";
 
 const Navbar = () => {
   return <div className='py-4'>
-<div className="container md:ml-30 flex justify-between">
+<div className="container flex justify-between">
     <div>
         <p className='text-lg font-semibold'>
             FOOD <span className='text-red-500'>EAT</span>

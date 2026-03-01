@@ -6,7 +6,7 @@ import { CiDeliveryTruck } from 'react-icons/ci';
 
 const Services = () => {
   return (
-    <div className='container py-12 md:ml-30'>
+    <div className='container py-12'>
       <div className='text-center mb-12'>
         <h1 className='text-4xl font-semibold'>Our Services</h1>
       </div>

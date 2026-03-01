@@ -4,7 +4,7 @@ import HeroImg from '../../assets/delicious.png';
 const Hero = () => {
   return (
   <div>
-    <div className="container md:ml-30 grid grid-cols-1 sm:grid-cols-2 gap-8 min-h-[300px]">
+    <div className="container grid grid-cols-1 sm:grid-cols-2 gap-8 min-h-[300px]">
         <div className='flex flex-col justify-center gap-8 text-center md:text-left pt-10 md:p-0 pb-10'>
             <h1 className='text-4xl lg:text-6xl font-semibold'>
                 Delicious Food Is Waiting For You

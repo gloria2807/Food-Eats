@@ -29,7 +29,7 @@ const FoodData = [
 
 const TopList = () => {
   return (
-    <div className='container py-14 md:ml-30'>
+    <div className='container py-14'>
     <div className='text-center mb-12'>
         <h1 className='text-4xl font-semibold'>Top List</h1>
         <p>Our top list</p>
